@@ -1,6 +1,3 @@
-https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/SharpHound.ps1
-
-
 function Invoke-BloodHound
 {
     <#
